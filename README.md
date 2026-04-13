@@ -3,7 +3,7 @@
 
 A single-file fortune-telling web app drawing on multicultural divination traditions from around the world — built as a fun entry point into comparative religion and the history of how humans have always tried to read meaning into things.
 
-**[→ Live demo]([your repo URL here])** &nbsp;·&nbsp; Built with [Claude](https://claude.ai) by Anthropic
+**[→ Live demo]([your repo URL here])** &nbsp;·&nbsp;
 
 ---
 
@@ -78,3 +78,7 @@ Historical and cultural information sourced from [Wikipedia](https://wikipedia.o
 ---
 
 *"May your fortunes be at least slightly better than they would have been anyway."*
+
+---
+
+Built with [Claude](https://claude.ai)
