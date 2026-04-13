@@ -24,15 +24,11 @@ A single-file fortune-telling web app drawing on multicultural divination tradit
 
 It's a single HTML file. Download `last-resort.html`, open it in a browser. That's it. No build step, no dependencies, no server required.
 
-The Oracle chat, dream interpreter, and tradition-specific fortune readings require an internet connection (they call the Anthropic API).
-
 ## Attribution
 
-Built by [Claude](https://claude.ai) (Anthropic), prompted and directed by [@yourusername]([your repo URL here]).
+Built by [Claude](https://claude.ai)
 
-This project uses the [Anthropic Messages API](https://docs.anthropic.com/en/api/messages) for AI-powered features.
-
-Fonts via [Google Fonts](https://fonts.google.com): UnifrakturMaguntia, Special Elite, Courier Prime.
+Fonts via [Google Fonts](https://fonts.google.com): Pirata One, Special Elite, Courier Prime.
 
 Historical and cultural information sourced from [Wikipedia](https://wikipedia.org) and linked inline throughout the app. Traditions are presented for educational and entertainment purposes. They belong to real communities with living practices — the app tries to say so clearly.
 
