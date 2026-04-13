@@ -3,7 +3,7 @@
 
 A single-file fortune-telling web app drawing on multicultural divination traditions from around the world — built as a fun entry point into comparative religion and the history of how humans have always tried to read meaning into things.
 
-**[→ Live demo]([https://post-content.github.io/last-resort/])** &nbsp;·&nbsp;
+**[→ Live demo](https://post-content.github.io/last-resort/)** &nbsp;·&nbsp;
 
 ---
 
