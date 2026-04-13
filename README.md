@@ -40,6 +40,18 @@ Historical and cultural information sourced from [Wikipedia](https://wikipedia.o
 
 ## Patch Notes
 
+### v0.6 — Font, Offline & Accessibility
+- Replaced UnifrakturMaguntia with Pirata One for masthead title — less loaded historical associations
+- All three AI/API calls replaced with offline pre-written libraries — app now works fully without internet connection
+- Oracle responses keyed by question theme (love, work, money, health, decision) across all 8 traditions
+- Ask the Oracle chat now uses 25 rotating pre-written responses drawing from across traditions
+- Font sizes bumped globally via rem scaling for better mobile readability
+- St. Expeditus entry corrected and expanded — crate origin story sourced to New Orleans (Our Lady of Guadalupe, c. 1921), Ursuline nun version, Paris 1781 version; Sara Lee pound cake tradition noted
+- Deity of the Day expanded to 28 entries spanning Hindu, Egyptian, Aztec, Yoruba, Norse, Shinto, Greek/Roman, Celtic, Chinese, Andean, and folk traditions
+- Animal Guide renamed from Spirit Animal with appropriation note added
+- All supplementary tools (coin, dice, Magic 8-Ball, lucky color, biorhythm) now include historical grounding and Wikipedia links
+- GitHub Pages deployment established
+
 ### v0.5 — Deity of the Day
 - Renamed "Saint of the Day" → **Deity of the Day** (it was only going to be Christian otherwise)
 - Expanded roster from 10 entries to 28 deities across Hindu, Egyptian, Aztec/Mexica, Yoruba, Norse, Shinto, Buddhist, Greek/Roman, Celtic, Chinese, Andean, and folk traditions
